@@ -66,4 +66,10 @@ a:hover {
     width: 100%
 }
 
+.covid {
+    border: 1px solid black;
+    width: 125px;
+    text-align: center;
+}
+
 
