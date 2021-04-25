@@ -68,8 +68,12 @@ a:hover {
 
 .covid {
     border: 1px solid black;
-    width: 125px;
+    width: 195px;
     text-align: center;
+    background: red;
+    border-radius: 15px;
+    height: 85px;
+    vertical-align: center;
 }
 
 
